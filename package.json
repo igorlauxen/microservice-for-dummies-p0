@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "this is a microservice test",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "igor.lauxen",
+  "license": "ISC",
+  "devDependencies": {
+    "connect-timeout": "^1.9.0",
+    "cote": "^0.18.4",
+    "express": "^4.16.4"
+  }
+}
